@@ -17,7 +17,7 @@ async function HandleSubmit() {
 
 export default function loginPage() {
     return (
-        <div>
+        <div className="absolute items-center justify-center flex flex-col w-full h-full">
             <h1 className="flex font-mono text-2xl text-shadow-lime-50">
                 Login
             </h1>
